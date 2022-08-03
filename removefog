@@ -1,1 +1,2 @@
-game.Lighting.FogEnd = 1000000
+game.Lighting.FogEnd = 10000
+game.Lighting.FogStart = 0
